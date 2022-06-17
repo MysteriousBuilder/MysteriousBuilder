@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MysteriousBuilder
-- 👀 I’m interested in wev Aeveploment, Android Dev and Godot.
+- 👀 I’m interested in Web Dev, Android Dev and Godot.
 - 🌱 I’m currently learning Web Dev
 
 <!---
